@@ -29,3 +29,9 @@ As a result, with the help of Python and Tableau I created an interactive Dashbo
 - Crime type
 - Crime Location (Location and District)
 
+### Screenshot of the Dashboard
+
+<div align="center">
+    <img src="Baltimore_911_Crime_data_analysis.png" alt="Project Screenshot" width="1000"/>
+</div>
+
